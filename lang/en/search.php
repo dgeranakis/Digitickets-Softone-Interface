@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'search' => 'Advanced Search',
+    'add_filter' => 'Add Filter',
+    'clear' => 'Clear',
+    'group_by' => 'Group By',
+    'is' => 'is',
+    'contains' => 'contains',
+    'none' => 'none',
+    'any' => 'any',
+    'isnot' => 'is not',
+    'yes' => 'yes',
+    'no' => 'no',
+    'greater_than' => '>=',
+    'less_than' => '<=',
+    'today' => 'today',
+    'yesterday' => 'yesterday',
+    'this_week' => 'this week',
+    'last_week' => 'last week',
+    'this_month' => 'this month',
+    'last_month' => 'last month',
+    'this_year' => 'this year',
+    'last_year' => 'last year',
+    'between' => 'between',
+    'please_choose' => 'Please Choose',
+];

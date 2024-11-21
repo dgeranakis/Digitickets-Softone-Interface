@@ -1,0 +1,22 @@
+@import "~datatables.net-bs5";
+@import "~datatables.net-buttons-bs5";
+
+.dataTables_paginate {
+	.paginate_button {
+		&.previous {
+			display: list-item;
+
+			@media screen and (max-width: 530px) {
+				display: none;
+			}
+		}
+
+		&.next {
+			display: list-item;
+
+			@media screen and (max-width: 530px) {
+				display: none;
+			}
+		}
+	}
+}
